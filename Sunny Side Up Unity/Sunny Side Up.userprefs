@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\GrowthTest.cs">
+    <Files>
+      <File FileName="..\Prototype Scripts\RotateGlobe.cs" Line="19" Column="17" />
+      <File FileName="..\Prototype Scripts\Upgrade.cs" Line="1" Column="1" />
+      <File FileName="..\Prototype Scripts\EffectsManager.cs" Line="21" Column="2" />
+      <File FileName="..\Prototype Scripts\EvolutionManager.cs" Line="23" Column="4" />
+      <File FileName="Assets\Scripts\GrowthTest.cs" Line="4" Column="42" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="D:\Unity projects\Sunny Side Up\Assets\Scripts\TestScript.cs" line="46" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
