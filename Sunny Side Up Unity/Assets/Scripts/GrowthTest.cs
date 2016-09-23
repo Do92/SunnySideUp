@@ -1,7 +1,12 @@
 ﻿using UnityEngine;
 using System.Collections;
 
+
 public class GrowthTest : MonoBehaviour {
+
+	//added if else functions after trees to see if houses scale
+	//GameObject childObject = Instantiate(YourObject) as GameObject;
+	//childObject.transform.parent = parentObject.transform
 
 	//Raycastwouldbesomuchfancier
 	public GameObject Player1Tree;
@@ -22,12 +27,13 @@ public class GrowthTest : MonoBehaviour {
 		if (growth && Player1Tree.gameObject.transform.localScale.x <= 0.25f) {
 
 			Player1Tree.gameObject.transform.localScale += new Vector3 (0.0005f, 0.0005f, 0);
-
-			if (growth && Player1House.gameObject.transform.localScale.x <= 0.25f) {
-
-				Player1House.gameObject.transform.localScale += new Vector3 (0.0005f, 0.0005f, 0);
-			}
 		}
+
+		else if (growth && Player1House.gameObject.transform.localScale.x <= 0.25f) {
+
+			Player1House.gameObject.transform.localScale += new Vector3 (0.0005f, 0.0005f, 0);
+		}
+
 
 			if (!growth) {
 
@@ -35,16 +41,15 @@ public class GrowthTest : MonoBehaviour {
 
 			}
 
-			if (degrade && Player1Tree.gameObject.transform.localScale.x > 0.05f) {
+		if (degrade && Player1Tree.gameObject.transform.localScale.x > 0.05f) {
 
-				Player1Tree.gameObject.transform.localScale -= new Vector3 (0.0001f, 0.0001f, 0);
+			Player1Tree.gameObject.transform.localScale -= new Vector3 (0.0001f, 0.0001f, 0);
+		} 
 
-				if (degrade && Player1House.gameObject.transform.localScale.x > 0.05f) {
+		else if (degrade && Player1House.gameObject.transform.localScale.x > 0.05f) {
 
-					Player1House.gameObject.transform.localScale -= new Vector3 (0.0001f, 0.0001f, 0);
-
-				}
-			}				
+			Player1House.gameObject.transform.localScale -= new Vector3 (0.0001f, 0.0001f, 0);
+		}
 	}
 
 	void OnTriggerEnter (Collider other) {
@@ -64,7 +69,7 @@ public class GrowthTest : MonoBehaviour {
 		{
 		if(other.gameObject == Player1Tree)
 
-		if(other.gameObject == Player1Tree)
+		if(other.gameObject == Player1House)
 
 			growth = false;
 
@@ -74,7 +79,7 @@ public class GrowthTest : MonoBehaviour {
 
 	IEnumerator Stagnation(){
 
-		yield return new WaitForSeconds (15);
+		yield return new WaitForSeconds (10);
 		degrade = true;
 
 	}

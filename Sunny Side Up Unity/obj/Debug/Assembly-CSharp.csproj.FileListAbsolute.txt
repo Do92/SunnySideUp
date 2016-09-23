@@ -19,3 +19,24 @@ D:\Unity projects\Sunny Side Up\Temp\bin\Debug\UnityEngine.UI.xml
 D:\Unity projects\Sunny Side Up\Temp\bin\Debug\UnityEngine.Networking.xml
 D:\Unity projects\Sunny Side Up\obj\Debug\Assembly-CSharp.dll
 D:\Unity projects\Sunny Side Up\obj\Debug\Assembly-CSharp.pdb
+D:\SourceTree Repository\Sunny Side Up Unity\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+D:\SourceTree Repository\Sunny Side Up Unity\obj\Debug\Assembly-CSharp.dll
+D:\SourceTree Repository\Sunny Side Up Unity\obj\Debug\Assembly-CSharp.pdb
+D:\SourceTree Repository\Sunny Side Up Unity\Temp\bin\Debug\Assembly-CSharp.dll
+D:\SourceTree Repository\Sunny Side Up Unity\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\SourceTree Repository\Sunny Side Up Unity\Temp\bin\Debug\UnityEditor.dll
+D:\SourceTree Repository\Sunny Side Up Unity\Temp\bin\Debug\UnityEngine.dll
+D:\SourceTree Repository\Sunny Side Up Unity\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\SourceTree Repository\Sunny Side Up Unity\Temp\bin\Debug\UnityEngine.UI.dll
+D:\SourceTree Repository\Sunny Side Up Unity\Temp\bin\Debug\Mono.Cecil.dll
+D:\SourceTree Repository\Sunny Side Up Unity\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\SourceTree Repository\Sunny Side Up Unity\Temp\bin\Debug\Unity.DataContract.dll
+D:\SourceTree Repository\Sunny Side Up Unity\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\SourceTree Repository\Sunny Side Up Unity\Temp\bin\Debug\Unity.UNetWeaver.dll
+D:\SourceTree Repository\Sunny Side Up Unity\Temp\bin\Debug\Unity.CecilTools.dll
+D:\SourceTree Repository\Sunny Side Up Unity\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+D:\SourceTree Repository\Sunny Side Up Unity\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+D:\SourceTree Repository\Sunny Side Up Unity\Temp\bin\Debug\UnityEngine.xml
+D:\SourceTree Repository\Sunny Side Up Unity\Temp\bin\Debug\UnityEditor.xml
+D:\SourceTree Repository\Sunny Side Up Unity\Temp\bin\Debug\UnityEngine.UI.xml
+D:\SourceTree Repository\Sunny Side Up Unity\Temp\bin\Debug\UnityEngine.Networking.xml

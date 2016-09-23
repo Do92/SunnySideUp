@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{EB3F9889-AB10-B511-AC91-0C757470D989}") = "Sunny Side Up Unity", "Assembly-CSharp.csproj", "{C65DE6F3-DFBB-0BBB-3F52-FA75E3728A30}"
+EndProject
+Project("{EB3F9889-AB10-B511-AC91-0C757470D989}") = "Sunny Side Up Unity", "Assembly-CSharp-Editor.csproj", "{11ECD9E8-F6E0-6690-598A-7962D3F33FEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C65DE6F3-DFBB-0BBB-3F52-FA75E3728A30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C65DE6F3-DFBB-0BBB-3F52-FA75E3728A30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C65DE6F3-DFBB-0BBB-3F52-FA75E3728A30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C65DE6F3-DFBB-0BBB-3F52-FA75E3728A30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11ECD9E8-F6E0-6690-598A-7962D3F33FEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11ECD9E8-F6E0-6690-598A-7962D3F33FEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11ECD9E8-F6E0-6690-598A-7962D3F33FEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11ECD9E8-F6E0-6690-598A-7962D3F33FEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
